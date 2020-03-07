@@ -8,11 +8,11 @@ author_profile: true
 
 ## SEAL 
 
-[Microsoft SEAL](https://github.com/microsoft/seal) is an open source library for homomorphic encryption
+I have been contributing to [Microsoft SEAL](https://github.com/microsoft/seal), a state-of-the-art open source library for homomorphic encryption
 
 
 ## SEALPIR 
 
-This is an implementation of the private information retrieval (PIR) protocol 
+This is an implementation of our private information retrieval (PIR) protocol 
 from [this paper](https://ieeexplore.ieee.org/abstract/document/8418648).
 
