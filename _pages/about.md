@@ -12,7 +12,7 @@ I am a Senior Researcher in the Cryptography and Privacy research group at Micro
 include fully homomorphic encryption (FHE) and secure multiparty computation (MPC). I work on both the theoretical and applied aspects. 
 
 Prior to joining MSR, I obtained a Ph.D. in mathematics at University of Washington, with concentration on computational 
-number theory. My advisor was [William Stein] (https://wstein.org/). 
+number theory. My advisor was [William Stein](https://wstein.org/). 
 
 For more info
 ------
