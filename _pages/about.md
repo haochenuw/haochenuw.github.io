@@ -14,6 +14,3 @@ include fully homomorphic encryption (FHE) and secure multiparty computation (MP
 Prior to joining MSR, I obtained a Ph.D. in mathematics at University of Washington, with concentration on computational 
 number theory. My advisor was the awesome [William Stein](https://wstein.org/). 
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
