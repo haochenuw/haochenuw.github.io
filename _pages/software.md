@@ -13,6 +13,5 @@ I have been contributing to [Microsoft SEAL](https://github.com/microsoft/seal),
 
 ## SEALPIR 
 
-This is an implementation of our private information retrieval (PIR) protocol 
-from [this paper](https://ieeexplore.ieee.org/abstract/document/8418648).
+I wrote [SealPIR](https://github.com/microsoft/SealPIR), whichty is an implementation of our private information retrieval (PIR) protocol from [this paper](https://ieeexplore.ieee.org/abstract/document/8418648).
 
