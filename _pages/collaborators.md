@@ -2,6 +2,7 @@
 layout: archive
 permalink: /collaborators/
 author_profile: true
+title: "Collaborators"
 ---
 
 ## (Incomplete List of) Collaborators 
