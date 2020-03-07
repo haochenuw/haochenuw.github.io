@@ -4,7 +4,7 @@ permalink: /collaborators/
 author_profile: true
 ---
 
-# (Incomplete List of) Collaborators 
+## (Incomplete List of) Collaborators 
 
 * [Ilya Razenshteyn](https://www.ilyaraz.org/)
 * Yongsoo Song
@@ -23,21 +23,21 @@ author_profile: true
 * Mohammad Samragh Razlighi
 * M. Sadegh Riazi
 * Oxana Poburinaya
-... 
+* ... 
 
 
 
 
-# Past Interns 
+## Past Interns 
 
-## 2019
+### 2019
 * Sameer Wagh 
 * Dragos Rotaru 
 * Mohammad Samragh Razlighi
 
-## 2018
+### 2018
 * Ilaria Chillotti 
 
-## 2017 
+### 2017 
 * Kyoohyung Han 
 
