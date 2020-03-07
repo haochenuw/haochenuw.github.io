@@ -1,4 +1,10 @@
 
+---
+layout: archive
+title: "Collaborators"
+permalink: /collaborators/
+author_profile: true
+---
 
 # (Incomplete List of) Collaborators 
 	[Ilya Razenshteyn](https://www.ilyaraz.org/)

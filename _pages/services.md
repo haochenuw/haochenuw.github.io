@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Service"
+permalink: /services/
+author_profile: true
+---
+
 # Service 
 
 ## Program Committee member
