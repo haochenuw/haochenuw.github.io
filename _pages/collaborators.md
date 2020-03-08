@@ -10,7 +10,7 @@ title: "Collaborators"
 * [Ilya Razenshteyn](https://www.ilyaraz.org/)
 * Yongsoo Song
 * Miran Kim 
-* Ling Ren
+* [Ling Ren](https://sites.google.com/view/renling)
 * Wei Dai
 * Ilia Iliashenko
 * Ilaria Chillotti 
