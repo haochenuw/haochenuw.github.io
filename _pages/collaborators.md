@@ -13,7 +13,7 @@ title: "Collaborators"
 * [Ling Ren](https://sites.google.com/view/renling)
 * Wei Dai
 * Ilia Iliashenko
-* Ilaria Chillotti 
+* [Ilaria Chillotti](https://ilachill.github.io/)
 * Sameer Wagh 
 * Dragos Rotaru 
 * Kim Laine 
