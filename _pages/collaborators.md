@@ -22,7 +22,7 @@ title: "Collaborators"
 * Kristin Lauter
 * Katherine Stange
 * Mohammad Samragh Razlighi
-* M. Sadegh Riazi
+* [M. Sadegh Riazi](https://www.sadeghr.com/)
 * Oxana Poburinaya
 * ... 
 
