@@ -5,4 +5,5 @@ permalink: /publication/2017-01-01-Fast-private-set-intersection-from-homomorphi
 date: 2017-01-01
 venue: 'ACM CCS'
 authors: Hao Chen,  Kim Laine,  Peter Rindal
+paperurl: https://acmccs.github.io/papers/p1243-chenA.pdf
 ---
