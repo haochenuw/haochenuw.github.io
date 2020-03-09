@@ -5,4 +5,5 @@ permalink: /publication/2018-01-01-Labeled-PSI-from-fully-homomorphic-encryption
 date: 2018-01-01
 venue: 'ACM CCS'
 authors: Hao Chen,  Zhicong Huang,  Kim Laine,  Peter Rindal
+paperurl: https://eprint.iacr.org/2018/787
 ---
